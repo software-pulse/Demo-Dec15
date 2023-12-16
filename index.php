@@ -22,9 +22,7 @@
     <div class="banner-container">
         <?php
         // Replace 'path/to/your/banner.jpg' with the actual path or URL of your banner image.
-        $bannerImagePath = 'https://www.ranosys.com/adobe/dynamicmedia/deliver/dm-aid--4351ab77-
-        bdff-401f-9b3e-fe7ba15b5244/phpbanner-1920.png?
-        quality=85&width=1600&preferwebp=true';
+        $bannerImagePath = 'https://www.ranosys.com/adobe/dynamicmedia/deliver/dm-aid--4351ab77-bdff-401f-9b3e-fe7ba15b5244/phpbanner-1920.png?quality=85&width=1600&preferwebp=true';
         ?>
 
         <img class="banner-image" src="<?php echo $bannerImagePath; ?>" alt="Web Banner">
