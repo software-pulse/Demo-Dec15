@@ -32,7 +32,7 @@
 </html>
 
 <?php
-echo "Hello, Ragav!";
+echo "Hello, SWD!";
 echo "&nbsp;This is for PHP Test.";
 echo "&nbsp;Thank you!";
 echo "&nbsp;We will see you again...";
