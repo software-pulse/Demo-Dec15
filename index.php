@@ -11,7 +11,7 @@
 
         .banner-image {
             max-width: 100%;
-            height: auto;
+            height: ato;
         }
     </style>
 </head>
